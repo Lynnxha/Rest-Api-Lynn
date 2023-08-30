@@ -1,11 +1,11 @@
 const fs = require('fs')
 
-global.creator = 'Lynndev'// yourname
-global.MONGO_DB_URI = "mongodb+srv://kibieptrf81:kibietika12@lynnrestapikey.zayd9ai.mongodb.net/" //database mongodb 
+global.creator = 'Lynnxha'// yourname
+global.MONGO_DB_URI = "mongodb+srv://Lynnapi:Kibienaya@lynn.woqxmkc.mongodb.net/" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "kibieptrf81@gmail.com" //email
-global.email_password = "gwbjshmxidpjwfgp" //application password email
-global.limitCount = 10000
+global.your_email = "admin@lynninc.cloud" //email
+global.email_password = "Kibienaya12#" //application password email
+global.limitCount = 50
 global.YUOR_PORT = 8000
 global.loghandler = {
 	noapikey:{
